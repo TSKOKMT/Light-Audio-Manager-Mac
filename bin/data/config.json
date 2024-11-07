@@ -1,0 +1,16 @@
+{
+    "serialPorts":[
+        "tty.usbmodem1401",
+        "tty.usbmodem13101",
+        "tty.usbmodem13201",
+        "tty.usbmodem13301",
+        "tty.usbmodem13401"
+    ],
+    "serialBaudRate":115200,
+    "LEDNumA":96,
+    "LEDNumB":142,
+    "LEDNumC":240,
+    "LEDNumD":480,
+    "serialNums":96,
+    "mode":4
+}
